@@ -1,27 +1,27 @@
 {
-  "id": "39950932-ed8c-4b41-95e0-e3a05f930eec",
+  "id": "e9361912-cfe9-4d90-b2f8-0fb1fc8755bb",
   "version": "2.0",
-  "name": "Amplify",
+  "name": "AmplifyApp",
   "url": "https://dev.d2rxvhrryr2bkn.amplifyapp.com",
   "tests": [{
-    "id": "16cc8e51-6545-4e89-b1d3-72d53e8b008c",
-    "name": "Valid Sign up",
+    "id": "70e61dcf-09c4-4cac-a2f7-9cf59e867425",
+    "name": "Valid sign up",
     "commands": [{
-      "id": "d1c1b54d-8565-4694-83ef-7c07d9127beb",
+      "id": "19df203d-7319-4396-b77c-9af361723af5",
       "comment": "",
       "command": "open",
       "target": "/",
       "targets": [],
       "value": ""
     }, {
-      "id": "3b4349b5-7d4f-42ef-a7d4-5c8506d316ce",
+      "id": "22848d7c-2562-4fa4-8af8-97a8bafcc923",
       "comment": "",
       "command": "setWindowSize",
-      "target": "550x697",
+      "target": "550x701",
       "targets": [],
       "value": ""
     }, {
-      "id": "13eb6f4d-0fc6-4e42-898b-a18da3dbb64b",
+      "id": "07e75466-fb13-43aa-ac2a-72f765e68076",
       "comment": "",
       "command": "click",
       "target": "css=.landing-button",
@@ -33,29 +33,7 @@
       ],
       "value": ""
     }, {
-      "id": "c702763e-7ed0-488b-8ccb-edfc9b310327",
-      "comment": "",
-      "command": "click",
-      "target": "css=.account__card",
-      "targets": [
-        ["css=.account__card", "css:finder"],
-        ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div", "xpath:idRelative"],
-        ["xpath=//div/div/div[2]/div/div", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "d548d6b8-09f4-40bc-b4fb-a015f67588d9",
-      "comment": "",
-      "command": "doubleClick",
-      "target": "css=.account__card",
-      "targets": [
-        ["css=.account__card", "css:finder"],
-        ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div", "xpath:idRelative"],
-        ["xpath=//div/div/div[2]/div/div", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "29dadc47-8007-437c-8760-0e25f7187f21",
+      "id": "a7f5fac6-607f-4275-a5be-169d20879fa9",
       "comment": "",
       "command": "click",
       "target": "linkText=Create Account",
@@ -70,7 +48,7 @@
       ],
       "value": ""
     }, {
-      "id": "45822b90-3f0a-48cb-bcea-a4913058fdc4",
+      "id": "70999444-aed3-4399-b585-150c894c5a6c",
       "comment": "",
       "command": "click",
       "target": "id=username",
@@ -84,7 +62,7 @@
       ],
       "value": ""
     }, {
-      "id": "a0c37078-7704-459a-bd43-096b7be1fe29",
+      "id": "7d951425-c1b6-4234-9165-d93d48f08cf0",
       "comment": "",
       "command": "type",
       "target": "id=username",
@@ -96,9 +74,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "Afifo"
+      "value": "Fiyingirl12"
     }, {
-      "id": "bc2f80fd-2c61-4b35-88e5-4b39773d7c3b",
+      "id": "19e632a7-6070-4bd4-970b-c4bc008a24ac",
       "comment": "",
       "command": "click",
       "target": "id=email",
@@ -112,7 +90,7 @@
       ],
       "value": ""
     }, {
-      "id": "2faa6715-0517-48ce-b0e4-289da1eaf332",
+      "id": "d8be8505-51ba-49c0-b90d-6bd9697d407e",
       "comment": "",
       "command": "type",
       "target": "id=email",
@@ -124,9 +102,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[3]/div/input", "xpath:idRelative"],
         ["xpath=//div[3]/div/input", "xpath:position"]
       ],
-      "value": "user1@gmail.com"
+      "value": "fiyin1@gmail.com"
     }, {
-      "id": "b1136185-20da-4a03-a860-08b4814a102c",
+      "id": "d01bb73a-6bdb-4cf1-a726-4b5555de7087",
       "comment": "",
       "command": "click",
       "target": "id=password",
@@ -140,7 +118,7 @@
       ],
       "value": ""
     }, {
-      "id": "bfa22cd1-f529-4f12-8567-2307ceb96251",
+      "id": "e5cff1f7-ceeb-416c-ad7e-950d32117a8e",
       "comment": "",
       "command": "type",
       "target": "id=password",
@@ -152,9 +130,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[4]/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/div/input", "xpath:position"]
       ],
-      "value": "ayomikun12"
+      "value": "adefiyinfoluwa12"
     }, {
-      "id": "76a56efa-bd6b-4424-9303-6032b9672022",
+      "id": "3c1700f3-d5d6-4113-8091-dd02a887eec8",
       "comment": "",
       "command": "click",
       "target": "id=confirmPassword",
@@ -168,7 +146,7 @@
       ],
       "value": ""
     }, {
-      "id": "ce777074-7295-4122-8ec3-9b8f6b0aa129",
+      "id": "ffb1ec32-935e-4503-9270-58d7b785c8bb",
       "comment": "",
       "command": "type",
       "target": "id=confirmPassword",
@@ -180,9 +158,9 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[5]/div/input", "xpath:idRelative"],
         ["xpath=//div[5]/div/input", "xpath:position"]
       ],
-      "value": "ayomikun12"
+      "value": "adefiyinfoluwa12"
     }, {
-      "id": "5339ed61-6e04-407e-9ca5-377ef3cd45e7",
+      "id": "11e51af7-7c18-44b3-ac02-d6f2a4954fe4",
       "comment": "",
       "command": "click",
       "target": "css=.btn",
@@ -194,7 +172,7 @@
       ],
       "value": ""
     }, {
-      "id": "67bc651b-c35f-4167-a338-550dd1fd457d",
+      "id": "d43666f0-e646-4d2a-a987-10cf3f7bb1e0",
       "comment": "",
       "command": "assertTitle",
       "target": "Deydam",
@@ -203,12 +181,12 @@
     }]
   }],
   "suites": [{
-    "id": "61888b4a-1b80-4b4c-b2ec-6f801ad74f22",
+    "id": "1dee24e7-abec-4577-8d77-7e04c003a8f1",
     "name": "Default Suite",
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
-    "tests": ["16cc8e51-6545-4e89-b1d3-72d53e8b008c"]
+    "tests": ["70e61dcf-09c4-4cac-a2f7-9cf59e867425"]
   }],
   "urls": ["https://dev.d2rxvhrryr2bkn.amplifyapp.com/"],
   "plugins": []
