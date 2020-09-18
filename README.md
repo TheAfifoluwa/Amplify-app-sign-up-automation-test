@@ -1,0 +1,1 @@
+# Amplify-app-sign-up-automation-test
